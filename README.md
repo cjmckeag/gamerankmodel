@@ -2,6 +2,7 @@
 From my tenure with the Sacramento Kings: a predictive model that outputs the predicted revenue for each home game of the upcoming season.
 
 Linear Model with Feature Selection: “gamerank.R”
+
 •	Data gathering and cleaning
 ♣	Convert SeasonPart to factor
 ♣	SeasonPart is a categorical variable and not a quantitative variable 
